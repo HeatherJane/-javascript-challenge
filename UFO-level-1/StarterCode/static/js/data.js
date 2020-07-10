@@ -8,7 +8,7 @@ var data = [{
     comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door."
   },
   {
-    datetime: "1/1/2010",
+    datetime: "3/14/2020",
     city: "bonita",
     state: "ca",
     country: "us",
@@ -35,7 +35,7 @@ var data = [{
     comments: "3 Red objects hovering over El Cajon CA"
   },
   {
-    datetime: "1/1/2010",
+    datetime: "9/13/1986",
     city: "fresno",
     state: "ca",
     country: "us",
@@ -44,7 +44,7 @@ var data = [{
     comments: "Fresno cal. bright light hovers over head then vanished"
   },
   {
-    datetime: "1/1/2010",
+    datetime: "1/8/1991",
     city: "grants pass",
     state: "or",
     country: "us",
@@ -53,7 +53,7 @@ var data = [{
     comments: "Triangle shaped craft with three red lights at points hovering over Grants Pass&#44 Oregon."
   },
   {
-    datetime: "1/1/2010",
+    datetime: "3/16/2020",
     city: "la mesa",
     state: "ca",
     country: "us",
